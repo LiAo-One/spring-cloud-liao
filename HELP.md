@@ -2,7 +2,7 @@
 
 用于学习 Spring Cloud 的案例
 
-Spring-Cloud-LiAo 可以帮助您您学习 服务中心 服务调用 熔断 网关 等 Spring Cloud 微服务组件 ：
+Spring-Cloud-LiAo 可以帮助您您学习 服务中心 服务调用 熔断 网关 等 Spring Cloud 微服务组件
 
 - **注册中心：** [Eureka](https://note.youdao.com/ynoteshare1/index.html?id=5eefa6a526e5e95b4dc3a0035016d0dc&type=notebook#/DAC5B1B62D164F5DB03F2EEDB44376E6)	[Zookeeper](https://note.youdao.com/ynoteshare1/index.html?id=5eefa6a526e5e95b4dc3a0035016d0dc&type=notebook#/63B998CE25E4444BA4EADC9C6EACD798)	[Console](https://note.youdao.com/ynoteshare1/index.html?id=5eefa6a526e5e95b4dc3a0035016d0dc&type=notebook#/71BA48C5C4F84787AC57411820E2DED5)
 
