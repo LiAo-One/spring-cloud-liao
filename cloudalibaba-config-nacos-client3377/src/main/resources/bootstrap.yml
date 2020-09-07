@@ -1,0 +1,16 @@
+server:
+  port: 3377
+
+spring:
+  application:
+    name: nacos-config-client
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848 #Nacos服务注册中心地址
+      config:
+        server-addr: 127.0.0.1:8848 #Nacos作为配置中心地址
+        file-extension: yaml # 指定yaml格式配置
+        namespace: 48086274-f99f-43b5-bb5b-16662e1ec53e  # 命名空间ID
+        group: DEV_GROUP  #指定分组名称 为空则为默认分组
+
